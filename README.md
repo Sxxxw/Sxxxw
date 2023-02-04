@@ -3,6 +3,7 @@
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sxxxw&label=Profile%20views&color=0e75b6&style=flat" alt="sxxxw" /> 
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sxxxw/Sxxxw">
 </p>
 
 - :sparkles: I’m currently an undergraduate of [Dalian Maritime University](https://www.dlmu.edu.cn/)
