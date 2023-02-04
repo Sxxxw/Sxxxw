@@ -1,7 +1,9 @@
-<h2 align="center">Hi 👋, I'm Shang Xiuwei</h2>
-<h3 align="center">Dreams always echo</h3>
+<h3 align="center">Hi 👋, I'm Shang Xiuwei</h3>
+<h4 align="center">:sparkles:Dreams always echo</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sxxxw&label=Profile%20views&color=0e75b6&style=flat" alt="sxxxw" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=sxxxw&label=Profile%20views&color=0e75b6&style=flat" alt="sxxxw" /> 
+</p>
 
 - :sparkles: I’m currently an undergraduate of [Dalian Maritime University](https://www.dlmu.edu.cn/)
 - :airplane: I’m going to study for a master's degree at [University of Science and Technology of China](https://www.ustc.edu.cn/)
@@ -12,7 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.leetcode.com/sxxxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sxxxw" height="30" width="40" /></a>
-<a href="/https://sxxxw.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sxxxw.github.io/" height="30" width="40" /></a>
+<a href="https://twitter.com/sxxxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sxxxw" height="30" width="40" /></a>
+<a href="https://kaggle.com/sxxxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sxxxw" height="30" width="40" /></a>
+<a href="https://fb.com/sxxxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sxxxw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,3 +25,4 @@
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sxxxw&count_private=true&show_icons=true&hide_border=true&bg_color=25,050A27,4A54BC&title_color=ffffff&text_color=cccccc&icon_color=4A54BC&border_radius=5" />
 </p>
+
