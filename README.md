@@ -6,7 +6,7 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sxxxw/Sxxxw">
 </p>
 
-- :sparkles: I'm currently a postgraduate of [University of Science and Technology of China](https://www.ustc.edu.cn/)
+- :sparkles: I'm currently a postgraduate of [University of Science & Technology of China](https://www.ustc.edu.cn/)
 - :airplane: I received a bachelor degree at [Dalian Maritime University](https://www.dlmu.edu.cn/)
 - 💻 My research interests include **Binary analysis, Natural language processing**
 - 🤝 How to reach me: **shangxw@mail.ustc.edu.cn**
