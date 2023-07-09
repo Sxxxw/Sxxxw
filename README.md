@@ -6,10 +6,10 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sxxxw/Sxxxw">
 </p>
 
-- :sparkles: I’m currently an undergraduate of [Dalian Maritime University](https://www.dlmu.edu.cn/)
-- :airplane: I’m going to study for a master's degree at [University of Science and Technology of China](https://www.ustc.edu.cn/)
+- :sparkles: I'm currently a postgraduate of [University of Science and Technology of China](https://www.ustc.edu.cn/)
+- :airplane: I received a bachelor degree at [Dalian Maritime University](https://www.dlmu.edu.cn/)
 - 💻 My research interests include **Binary analysis, Natural language processing**
-- 🤝 How to reach me: **sxxxw010605@163.com**
+- 🤝 How to reach me: **shangxw@mail.ustc.edu.cn**
 - ⚡ Know about my experiences [https://sxxxw.github.io/](https://sxxxw.github.io/)
 <!-- 
 <h3 align="left">Connect with me:</h3>
