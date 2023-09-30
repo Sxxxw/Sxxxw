@@ -1,5 +1,7 @@
 <h3 align="center">Hi 👋, I'm Shang Xiuwei</h3>
-<h4 align="center">:sparkles:Dreams always echo</h4>
+<!-- 
+  <h4 align="center">:sparkles:Dreams always echo</h4>
+-->
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sxxxw&label=Profile%20views&color=0e75b6&style=flat" alt="sxxxw" /> 
