@@ -8,7 +8,7 @@
 
 - :sparkles: I'm currently a postgraduate of [University of Science & Technology of China](https://www.ustc.edu.cn/)
 - :airplane: I received a bachelor degree at [Dalian Maritime University](https://www.dlmu.edu.cn/)
-- 💻 My research interests include **Binary analysis, Natural language processing**
+- 💻 My research interests include **Binary analysis, Natural language processing, Large language model**
 - 🤝 How to reach me: **shangxw@mail.ustc.edu.cn**
 - ⚡ Know about my experiences [https://sxxxw.github.io/](https://sxxxw.github.io/)
 <!-- 
