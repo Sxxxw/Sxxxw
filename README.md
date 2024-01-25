@@ -10,7 +10,7 @@
 
 - :sparkles: I'm currently a postgraduate of [University of Science & Technology of China](https://www.ustc.edu.cn/)
 - :airplane: I received a bachelor degree at [Dalian Maritime University](https://www.dlmu.edu.cn/)
-- 💻 My research interests include **AI(NLP/LLMs) for Software engineering / Security, especially binary / source code analysis**
+- 💻 My research interests include **AI(NLP/LLMs) for SE/Security, especially binary/source code analysis**
 - 🤝 How to reach me: **shangxw@mail.ustc.edu.cn**
 <!--   - ⚡ Know about my experiences [https://sxxxw.github.io/](https://sxxxw.github.io/)  -->
 <!-- 
