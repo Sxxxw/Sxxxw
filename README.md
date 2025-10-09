@@ -8,10 +8,11 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sxxxw/Sxxxw">
 </p>
 
-- :sparkles: I'm currently a postgraduate of [University of Science & Technology of China](https://www.ustc.edu.cn/) and a visiting student at [Singapore Management University](https://www.smu.edu.sg/).
+- :sparkles: I'm currently a postgraduate of [University of Science & Technology of China](https://www.ustc.edu.cn/).
+- 🇸🇬 I'm also a visiting student at [Singapore Management University](https://www.smu.edu.sg/)
 - :airplane: I received a bachelor degree at [Dalian Maritime University](https://www.dlmu.edu.cn/)
 - 💻 My research interests include **AI(NLP/LLMs) for SE/Security, especially binary/source code analysis**
-- 🤝 How to reach me: **shangxw@mail.ustc.edu.cn**, **xwshang@smu.edu.sg**, **sxxxw010605@163.com**
+- 🤝 How to reach me: **shangxw@mail.ustc.edu.cn**, **xwshang@smu.edu.sg**
 <!--   - ⚡ Know about my experiences [https://sxxxw.github.io/](https://sxxxw.github.io/)  -->
 <!-- 
 <h3 align="left">Connect with me:</h3>
