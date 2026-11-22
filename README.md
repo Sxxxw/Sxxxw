@@ -1,19 +1,15 @@
 <h3 align="center">Hi 👋, I'm Shang Xiuwei</h3>
-<!-- 
-  <h4 align="center">:sparkles:Dreams always echo</h4>
--->
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sxxxw&label=Profile%20views&color=0e75b6&style=flat" alt="sxxxw" /> 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sxxxw/Sxxxw">
 </p>
 
-- :sparkles: I'm currently a postgraduate of [University of Science & Technology of China](https://www.ustc.edu.cn/)
-- 🇸🇬 I'm also a visiting student at [Singapore Management University](https://www.smu.edu.sg/)
-- :airplane: I received a bachelor degree at [Dalian Maritime University](https://www.dlmu.edu.cn/)
-- 💻 My research interests include **AI(NLP/LLMs) for SE/Security, especially binary/source code analysis**
+- 🇸🇬 I'm a Ph.D. Student & Research Engineer at [Singapore Management University](https://www.smu.edu.sg/), supervised by Prof. David Lo.
+- :sparkles: I received my master's degree from the [University of Science and Technology of China](https://www.ustc.edu.cn/).
+- 💻 My research interests include **AI for Software Engineering and Security**, especially **LLM/agent-powered binary reverse engineering and software vulnerability detection**.
 - 🤝 How to reach me: **shangxw@mail.ustc.edu.cn**, **xwshang@smu.edu.sg**
-<!--   - ⚡ Know about my experiences [https://sxxxw.github.io/](https://sxxxw.github.io/)  -->
+
 <!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
